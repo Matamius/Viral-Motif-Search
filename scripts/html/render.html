@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Viral Motif Match Results</title>
+	<link rel="stylesheet" type="text/css" href="../css/render.css" />
+	<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+
+</head>
+<body>
+	<h1>Viral Motif Analyzer</h1>
+	<p> This tool is a viral genome processor to locate potential matches with known viral motifs.</p>
+    	<!-- file upload form -->
+    	<form id="uploadForm">
+		<label for="fileInput">Upload FASTA File:</label>
+	        <input type="file" id="fileInput" name="file" required>
+	        <button type="submit">Submit</button>
+    	</form>
+	<p id="fileError" style="color: red; display: none;">Invalid file type. Please upload a .fasta, .fa, or .txt file.</p>
+
+	
+	<!-- loading indicator -->
+	<div id="loadingIndicator">
+		<div class="loader"></div>
+		<p>Loading...</p>
+	</div>
+	
+	<!-- summarized results -->
+	<div id="summarized_results">
+		<h2>Summarized Match Results</h2>	
+			<div id ="summary">
+			<!-- summarized results should populate here -->
+			</div>
+	</div>
+	
+	<!-- peptide match results -->
+    	<div id="results">
+        	<h2>Detailed Match Results</h2>	
+		<div class="flex-table" id="resultsTable">
+			<!-- header -->
+			<div class="flex-header">
+				<div class="flex-cell">Frame</div>
+				<div class="flex-cell">Peptide</div>
+				<div class="flex-cell">Pattern ID</div>
+				<div class="flex-cell">Site Name</div>
+				<div class="flex-cell">Description</div>
+				<div class="flex-cell">Pattern</div>
+			</div>
+			<div id="resultsTableBody">
+				<!-- rows should be dynamically added here -->
+			</div>
+		</div>
+	</div>
+	
+	<script type="text/javascript" src="../js/preprocess.js"></script>
+</body>
+</html>
