@@ -1,0 +1,12 @@
+How to understand REGEX in datasets:
+.             Any amino acid 
+[..]          Only amino acids listed are allowed
+[^.]          These amino acids are not allowed
+{min, max}    min to max number of amino acids allowed in sequence
+^             match amino terminal (at start)
+$             match carboxy terminal (at end)
+?             one amino acid allowed (optional)
+*             any number of amino acids allowed (optional)
++             one amino acid is allowed, optionally more
+|             either expression is allowed
+(...)         Marks positions of interest or is used to group parts of expression
