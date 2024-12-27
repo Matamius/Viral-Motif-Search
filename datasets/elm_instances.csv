@@ -1,0 +1,294 @@
+Accession,ELMType,ELMIdentifier,ProteinName,Primary_Acc,Accessions,Methods,InstanceLogic,PDB,Organism
+ELMI001708,CLV,CLV_PCSK_FUR_1,ENV_FFV,O56861,O56861,amorph; cleavage reaction; detection by mass spectrometry; knock out; mutation analysis,true positive,,Feline foamy virus
+ELMI001709,CLV,CLV_PCSK_FUR_1,ENV_HTLV2,P03383,P03383 P03382,amorph; knock out; radiolabel; western blot,true positive,,Human T-lymphotropic virus 2
+ELMI001710,CLV,CLV_PCSK_FUR_1,ENV_HV1B1,P03375,P03375 P03376,amorph; knock out; mutation analysis; western blot,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001712,CLV,CLV_PCSK_FUR_1,FUS_HRSVA,P03420,P03420 P88811,amorph; cleavage reaction; knock out; radiolabel,true positive,,Human respiratory syncytial virus A2
+ELMI001713,CLV,CLV_PCSK_FUR_1,GB_EBVB9,P03188,P03188 Q777B0,mutation analysis,true positive,,Human herpesvirus 4 (strain B95-8)
+ELMI001714,CLV,CLV_PCSK_FUR_1,POLG_DEN1B,P27909,P27909 P29983 Q8B648,amorph; comigration in sds page; knock out; mutation analysis,true positive,,Dengue virus 1 Brazil/97-11/1997
+ELMI001716,CLV,CLV_PCSK_FUR_1,SPIKE_IBVB,P11223,P11223 P05134 Q4ZJS1,cleavage reaction; mutation analysis,true positive,,Avian infectious bronchitis virus (strain Beaudette)
+ELMI001715,CLV,CLV_PCSK_FUR_1,SPIKE_IBVB,P11223,P11223 P05134 Q4ZJS1,cleavage reaction; mutation analysis,true positive,,Avian infectious bronchitis virus (strain Beaudette)
+ELMI001719,CLV,CLV_PCSK_FUR_1,VGP_EBOZM,Q05320,Q05320 Q66818 Q77LU5 Q8B9S1 Q8JS62,amorph; cleavage reaction; knock out; mutation analysis; radiolabel,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI001717,CLV,CLV_PCSK_FUR_1,VL2_HPV16,P03107,P03107 Q71BI1,mutation analysis,true positive,,Human papillomavirus type 16
+ELMI001718,CLV,CLV_PCSK_FUR_1,VSGP_EBOZM,P60170,P60170 O12421 O12717 Q66801 Q66819 Q77LU4 Q8JS61 Q9YMG3,cleavage reaction; mutation analysis; radiolabel,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI001720,DEG,DEG_APCC_KENBOX_2,VE1_BPV1,P03116,P03116 Q9WMH1,mutation analysis,true positive,,Bovine papillomavirus type 1
+ELMI004685,DEG,DEG_Cend_TRIM7_1,POLG_CXB3N,P03313,P03313 J9WSZ6 Q66322 Q66323 Q66324 Q66325 Q66326 Q66327 Q66328 Q83744,coimmunoprecipitation; elisa; isothermal titration calorimetry; ubiquitinase assay; western blot; x-ray crystallography,true positive,7W0Q 7W0S 7W0T,Coxsackievirus B3 (strain Nancy)
+ELMI004688,DEG,DEG_Cend_TRIM7_1,POLG_HE71,B9VUU3,B9VUU3,colocalization; differential scanning calorimetry; elisa; fusion protein; isothermal titration calorimetry; mutation analysis; ubiquitinase assay; western blot; x-ray crystallography,true positive,8A5L,Enterovirus A71
+ELMI004687,DEG,DEG_Cend_TRIM7_1,Q80J95_9CALI,Q80J95,Q80J95,colocalization; differential scanning calorimetry; elisa; fusion protein; isothermal titration calorimetry; mutation analysis; ubiquitinase assay; western blot; x-ray crystallography,true positive,8A5M,Murine norovirus 1
+ELMI004686,DEG,DEG_Cend_TRIM7_1,R1AB_SARS2,P0DTD1,P0DTD1,coimmunoprecipitation; elisa; isothermal titration calorimetry; ubiquitinase assay; western blot; x-ray crystallography,true positive,7X6Z,Severe acute respiratory syndrome coronavirus 2
+ELMI001402,DEG,DEG_SCF_FBW7_2,LT_SV40,P03070,P03070,classical fluorescence spectroscopy; coimmunoprecipitation; mutation analysis,true positive,,Simian virus 40
+ELMI001316,DEG,DEG_SCF_TRCP1_1,LMP1_EBVB9,P03230,P03230 Q777A4,coimmunoprecipitation; mutation analysis,true positive,,Human herpesvirus 4 (strain B95-8)
+ELMI001315,DEG,DEG_SCF_TRCP1_1,VPU_HV1BR,P05923,P05923,confocal microscopy; nuclear magnetic resonance; radiolabel,true positive,,Human immunodeficiency virus type 1 (BRU ISOLATE)
+ELMI003451,DOC,DOC_CYCLIN_RxL_1,A8T798_HCMV,A8T798,A8T798,mutation analysis; pull down,true positive,,Human herpesvirus 5
+ELMI001721,DOC,DOC_CYCLIN_RxL_1,VE1_HPV18,P06789,P06789 Q84181,glutathione s tranferase tag; mutation analysis; pull down; western blot,true positive,,Human papillomavirus type 18
+ELMI001743,DOC,DOC_PP1_RVXF_1,ICP34_HHV1F,P08353,P08353,competition binding; glutathione s tranferase tag; mutation analysis; pull down,true positive,,Herpes simplex virus (type 1 / strain F)
+ELMI003178,DOC,DOC_PP2A_B56_1,NCAP_EBOZM,P18272,P18272 Q773N6 Q8JS64 Q9DQD3 Q9YMG4,alanine scanning; coimmunoprecipitation,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI003177,DOC,DOC_PP2A_B56_1,POL_HTL1C,P14078,P14078 O56228,alanine scanning; coimmunoprecipitation,true positive,,Human T-cell lymphotrophic virus type 1 (Caribbean isolate)
+ELMI004806,DOC,DOC_PP2B_PxIxIT_1,Q65142_ASF,Q65142,Q65142,anti tag coimmunoprecipitation; competition binding; mutation analysis; surface plasmon resonance; two hybrid,true positive,,African swine fever virus
+ELMI004807,DOC,DOC_PP2B_PxIxIT_1,VF238_ASFM2,O36972,O36972,competition binding; isothermal titration calorimetry; mutation analysis; x-ray crystallography,true positive,4F0Z,African swine fever virus Malawi LIL 20/1
+ELMI004884,DOC,DOC_RSK_DDVF_1,ORF45_HHV8P,F5HDE4,F5HDE4,coimmunoprecipitation; x-ray crystallography,true positive,7OPO,Human herpesvirus 8 strain GK18
+ELMI004882,DOC,DOC_RSK_DDVF_1,POLG_TMEVB,P08544,P08544 Q88583 Q88584 Q88585 Q88586 Q88587 Q88588 Q88589 Q88590 Q88591 Q88592,coimmunoprecipitation,true positive,,"Theiler""s encephalomyelitis virus (STRAIN BEAN 8386)"
+ELMI004881,DOC,DOC_RSK_DDVF_1,POLG_TMEVD,P13899,P13899 Q88564 Q88565 Q88566 Q88567 Q88568 Q88569 Q88570 Q88571 Q88572 Q88573 Q88574 Q89580 S4UVR9,coimmunoprecipitation,true positive,,"Theiler""s encephalomyelitis virus (STRAIN DA)"
+ELMI004883,DOC,DOC_RSK_DDVF_1,POLG_TMEVG,P08545,P08545 Q88593 Q88594,coimmunoprecipitation,true positive,,"Theiler""s encephalomyelitis virus (STRAIN GDVII)"
+ELMI001071,DOC,DOC_USP7_MATH_2,EBNA1_EBVB9,P03211,P03211 Q777E1,classical fluorescence spectroscopy; glutathione s tranferase tag; mutation analysis; pull down; x-ray crystallography,true positive,1YY6,Human herpesvirus 4 (strain B95-8)
+ELMI003682,DOC,DOC_USP7_UBL2_3,ICP0_HHV11,P08393,P08393,fluorescence polarization spectroscopy; glutathione s tranferase tag; mutation disrupting interaction; pull down; western blot; x-ray crystallography,true positive,4WPH,Herpes simplex virus (type 1 / strain 17)
+ELMI001971,DOC,DOC_WW_Pin1_4,TAX_HTL1A,P03409,P03409,alanine scanning; glutathione s tranferase tag; pull down,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI002034,DOC,DOC_WW_Pin1_4,X_HBVA3,P69713,P69713 P03166 P12935,alanine scanning; glutathione s tranferase tag; pull down,true positive,,Hepatitis B virus adw2/Rutter/1979
+ELMI003006,LIG,LIG_14-3-3_CanoR_1,MT_POVM3,P03076,P03076 Q76TX4 Q76W01 Q89765,surface plasmon resonance; x-ray crystallography,true positive,1QJB,Mouse polyomavirus (strain 3)
+ELMI002967,LIG,LIG_CSL_BTD_1,EBNA2_EBVG,Q3KSV2,Q3KSV2,coimmunoprecipitation; glutathione s tranferase tag; pull down; two hybrid; western blot,true positive,,Human herpesvirus 4
+ELMI002968,LIG,LIG_CSL_BTD_1,EBNA3_EBVG,Q3KST2,Q3KST2,coimmunoprecipitation; glutathione s tranferase tag; pull down; two hybrid; western blot,true positive,,Human herpesvirus 4
+ELMI002969,LIG,LIG_CSL_BTD_1,EBNA3_EBVG,Q3KST2,Q3KST2,coimmunoprecipitation; glutathione s tranferase tag; pull down; two hybrid; western blot,true positive,,Human herpesvirus 4
+ELMI002970,LIG,LIG_CSL_BTD_1,EBNA6_EBVB9,P03204,P03204 Q777E7,glutathione s tranferase tag; pull down,true positive,,Human herpesvirus 4 (strain B95-8)
+ELMI002962,LIG,LIG_CSL_BTD_1,F5H9D8_HHV8,F5H9D8,F5H9D8,anti tag coimmunoprecipitation; western blot,true positive,,Human herpesvirus 8
+ELMI002963,LIG,LIG_CSL_BTD_1,F5H9D8_HHV8,F5H9D8,F5H9D8,anti tag coimmunoprecipitation; western blot,true positive,,Human herpesvirus 8
+ELMI002964,LIG,LIG_CSL_BTD_1,F5H9D8_HHV8,F5H9D8,F5H9D8,anti tag coimmunoprecipitation; western blot,true positive,,Human herpesvirus 8
+ELMI000263,LIG,LIG_CtBP_PxDLS_1,E1A_ADE02,P03254,P03254 P24934 Q67788,coimmunoprecipitation; glutathione s tranferase tag; mutation analysis; pull down; two hybrid,true positive,,Human adenovirus 2
+ELMI001722,LIG,LIG_Dynein_DLC8_1,PHOSP_RABVC,P22363,P22363 Q85414,mutation analysis,true positive,,Rabies virus CVS-11
+ELMI002917,LIG,LIG_G3BP_FGDF_1,DNBI_HHV11,P04296,P04296 B9VQF7 Q09IA4,anti tag coimmunoprecipitation; confocal microscopy; green fluorescent protein tag; mutation analysis,true positive,,Herpes simplex virus (type 1 / strain 17)
+ELMI002918,LIG,LIG_G3BP_FGDF_1,DNBI_HHV2,P36384,P36384,by homology; fluorescence microscopy,true positive,,Human herpesvirus 2
+ELMI002913,LIG,LIG_G3BP_FGDF_1,POLN_CHIK3,Q5XXP4,Q5XXP4,anti tag coimmunoprecipitation; by homology; coimmunoprecipitation; confocal microscopy; fluorescence microscopy; green fluorescent protein tag; mutation analysis,true positive,,Chikungunya virus strain Senegal 37997
+ELMI002914,LIG,LIG_G3BP_FGDF_1,POLN_CHIK3,Q5XXP4,Q5XXP4,anti tag coimmunoprecipitation; by homology; coimmunoprecipitation; confocal microscopy; fluorescence microscopy; green fluorescent protein tag; mutation analysis,true positive,,Chikungunya virus strain Senegal 37997
+ELMI002911,LIG,LIG_G3BP_FGDF_1,POLN_SFV,P08411,P08411 Q3LRQ3 Q3LRQ4 Q3LRQ6 Q3LRQ7 Q3LRQ9 Q3LRR0 Q3LRR1 Q3LRR2 Q8JMP6 Q9QBM1,alanine scanning; anti tag coimmunoprecipitation; coimmunoprecipitation; green fluorescent protein tag; isothermal titration calorimetry; molecular sieving; mutation analysis; mutation disrupting interaction; sequence based prediction,true positive,,Semliki forest virus
+ELMI002912,LIG,LIG_G3BP_FGDF_1,POLN_SFV,P08411,P08411 Q3LRQ3 Q3LRQ4 Q3LRQ6 Q3LRQ7 Q3LRQ9 Q3LRR0 Q3LRR1 Q3LRR2 Q8JMP6 Q9QBM1,alanine scanning; anti tag coimmunoprecipitation; coimmunoprecipitation; green fluorescent protein tag; isothermal titration calorimetry; molecular sieving; mutation analysis; mutation disrupting interaction; sequence based prediction,true positive,,Semliki forest virus
+ELMI002915,LIG,LIG_G3BP_FGDF_1,POLN_SINDV,P03317,P03317,Identification by mass spectrometry; anti tag coimmunoprecipitation; confocal microscopy; green fluorescent protein tag,true positive,,Sindbis virus
+ELMI002916,LIG,LIG_G3BP_FGDF_1,POLN_SINDV,P03317,P03317,Identification by mass spectrometry; anti tag coimmunoprecipitation; confocal microscopy; green fluorescent protein tag,true positive,,Sindbis virus
+ELMI002257,LIG,LIG_HCF-1_HBM_1,VP16_HHV11,P06492,P06492 B9VQH6 Q09I86,mutation analysis,true positive,,Herpes simplex virus (type 1 / strain 17)
+ELMI002348,LIG,LIG_Integrin_isoDGR_2,CAPSD_AAV2S,P03135,P03135 O56652 O56653 O92917,coimmunoprecipitation; competition binding; far western blotting; mutation analysis; mutation disrupting interaction; western blot,true positive,,Adeno-associated virus 2 Srivastava/1982
+ELMI001750,LIG,LIG_Integrin_RGD_1,CAPSP_ADE02,P03276,P03276,mutation analysis,true positive,,Human adenovirus 2
+ELMI001747,LIG,LIG_Integrin_RGD_1,POLG_CXA9,P21404,P21404,competition binding; fluorescence-activated cell sorting; solid phase assay,true positive,,Human coxsackievirus A9 (strain Griggs)
+ELMI001749,LIG,LIG_Integrin_RGD_1,POLG_FMDVO,P03305,P03305,competition binding,true positive,,Foot-and-mouth disease virus (strain O1)
+ELMI001748,LIG,LIG_Integrin_RGD_1,POLG_HPE1H,Q66578,Q66578 Q90062,competition binding,true positive,,Echovirus 22 (strain Harris)
+ELMI004915,LIG,LIG_Integrin_RGDSP_6,POLG_FMDVA,P03308,P03308 P03312 Q65038 Q65039 Q65040 Q65041 Q65042 Q65043 Q65044 Q65045 Q65046 Q65047 Q6PN34,phenotype-based detection assay,true positive,,Foot-and-mouth disease virus (strain A12)
+ELMI004155,LIG,LIG_Integrin_RGD_TGFB_3,Q6PMW3_9PICO,Q6PMW3,Q6PMW3,electron microscopy,true positive,5NET 5NEU,Foot-and-mouth disease virus - type O
+ELMI004154,LIG,LIG_Integrin_RGD_TGFB_3,Q98W00_9PICO,Q98W00,Q98W00,electron microscopy,true positive,5NEM 5NER,Foot-and-mouth disease virus - type O
+ELMI004658,LIG,LIG_IRFs_LxIS_1,NSP1_ROTS4,Q99FX5,Q99FX5 Q99FX4,mutation analysis; surface plasmon resonance; western blot; x-ray crystallography,true positive,5JER,Simian rotavirus A/SA11-4F
+ELMI002919,LIG,LIG_KLC1_WD_1,A36_VACCW,P68619,P68619 P21059 Q76ZP0,fluorescence microscopy; mutation analysis,true positive,,Vaccinia virus WR
+ELMI002920,LIG,LIG_KLC1_WD_1,A36_VACCW,P68619,P68619 P21059 Q76ZP0,fluorescence microscopy; glutathione s tranferase tag; mutation analysis; pull down; two hybrid,true positive,,Vaccinia virus WR
+ELMI002921,LIG,LIG_KLC1_WD_1,A9J0X2_VACCA,A9J0X2,A9J0X2,confocal microscopy; fluorescent resonance energy transfer,true positive,,Vaccinia virus Ankara
+ELMI002922,LIG,LIG_KLC1_WD_1,A9J0X2_VACCA,A9J0X2,A9J0X2,confocal microscopy; fluorescent resonance energy transfer,true positive,,Vaccinia virus Ankara
+ELMI002923,LIG,LIG_KLC1_WD_1,F12_VACCW,Q80HX6,Q80HX6,confocal microscopy; mutation analysis,true positive,,Vaccinia virus WR
+ELMI004454,LIG,LIG_LIR_Gen_1,BALF1_EBVG,P0CK59,P0CK59 P03229 Q777A6,colocalization; mutation analysis,false positive,,Human herpesvirus 4
+ELMI004456,LIG,LIG_LIR_Gen_1,M2_I34A1,P06821,P06821 A4GXH7 Q20N37 Q5UAV4 Q5UAV5 Q5UAV6 Q84105 Q8JUU3,colocalization; deletion analysis; fluorescence microscopy; mutation analysis; pull down,true positive,,Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+ELMI001475,LIG,LIG_LYPXL_L_2,GAG_HV1B1,P03347,P03347 P03350,glutathione s tranferase tag; isothermal titration calorimetry; pull down; surface plasmon resonance; two hybrid; x-ray crystallography,true positive,2R02,Human immunodeficiency virus type 1 BH10
+ELMI004142,LIG,LIG_LYPXL_L_2,GAG_HV1Y2,P35962,P35962,biosensor; isothermal titration calorimetry; mutation analysis; over expressed level; surface plasmon resonance; western blot; x-ray crystallography,true positive,2R05,Human immunodeficiency virus type 1 (isolate YU2)
+ELMI001476,LIG,LIG_LYPXL_L_2,GAG_SIVCZ,P17282,P17282,inferred by author,true positive,,Simian immunodeficiency virus
+ELMI001464,LIG,LIG_LYPXL_S_1,GAG_EIAVY,P69732,P69732 P03351,biosensor; glutathione s tranferase tag; mutation analysis; over expressed level; pull down; surface plasmon resonance; two hybrid; western blot; x-ray crystallography,true positive,2R03,Equine infectious anemia virus (ISOLATE WYOMING)
+ELMI001477,LIG,LIG_LYPXL_S_1,GAG_FRSF5,P03331,P03331,inferred by author,true positive,,Friend spleen focus-forming virus (isolate 502)
+ELMI001470,LIG,LIG_LYPXL_S_1,GAG_FSVMD,P03340,P03340,inferred by author,true positive,,Feline sarcoma virus (STRAIN MCDONOUGH)
+ELMI001471,LIG,LIG_LYPXL_S_1,GAG_MLVFF,P26806,P26806,inferred by author,true positive,,Friend murine leukemia virus (ISOLATE FB29)
+ELMI001472,LIG,LIG_LYPXL_S_1,GAG_MLVHO,P21435,P21435 Q80877 Q80878 Q80879 Q80880,inferred by author,true positive,,HoMuLV murine leukemia virus
+ELMI001469,LIG,LIG_LYPXL_S_1,GAG_MSVFR,P29175,P29175,inferred by author,true positive,,FBR murine osteosarcoma virus
+ELMI001474,LIG,LIG_LYPXL_S_1,GAG_MSVMO,P03334,P03334,inferred by author,true positive,,Moloney murine sarcoma virus
+ELMI001468,LIG,LIG_LYPXL_S_1,GAG_RSVP,P03322,P03322,mutation analysis,true positive,,Rous sarcoma virus - Prague C
+ELMI001478,LIG,LIG_LYPXL_S_1,GAG_XMRV6,Q27ID9,Q27ID9,inferred by author,true positive,,Xenotropic MuLV-related virus VP62
+ELMI001473,LIG,LIG_LYPXL_S_1,POL_MLVMS,P03355,P03355 O92808,inferred by author; mutation analysis; two hybrid,true positive,,Moloney murine leukemia virus
+ELMI001465,LIG,LIG_LYPXL_S_1,Q83383_9GAMR,Q83383,Q83383,two hybrid,true positive,,Murine leukemia virus
+ELMI004146,LIG,LIG_LYPXL_SIV_4,GAG_SIVG1,Q02843,Q02843,biosensor; mutation analysis; x-ray crystallography,true positive,2XS8,Simian immunodeficiency virus (isolate AGM / clone GRI-1)
+ELMI004145,LIG,LIG_LYPXL_SIV_4,GAG_SIVMK,P05893,P05893,biosensor; mutation analysis; western blot; x-ray crystallography,true positive,2XS1,Simian immunodeficiency virus - mac K6W
+ELMI004147,LIG,LIG_LYPXL_SIV_4,Q8Q7J5_SIV,Q8Q7J5-1,Q8Q7J5,sequence based prediction,true positive,,Simian immunodeficiency virus SIV-mnd 2
+ELMI002470,LIG,LIG_MYND_1,E1A_ADE05,P03255,P03255 P06438 Q64825 Q64826,coimmunoprecipitation; glutathione s tranferase tag; mutation analysis; mutation disrupting interaction; pull down,true positive,,Human adenovirus 5
+ELMI002471,LIG,LIG_MYND_1,EBNA2_EBVB9,P12978,P12978 Q69023 Q777H1,coimmunoprecipitation; glutathione s tranferase tag; mutation analysis; mutation disrupting interaction; pull down; two hybrid,true positive,,Human herpesvirus 4 (strain B95-8)
+ELMI002472,LIG,LIG_MYND_1,EBNA2_EBVB9,P12978,P12978 Q69023 Q777H1,coimmunoprecipitation; glutathione s tranferase tag; mutation analysis; mutation disrupting interaction; pull down; two hybrid,true positive,,Human herpesvirus 4 (strain B95-8)
+ELMI004004,LIG,LIG_NRP_CendR_1,ENV_HTL1M,P23064,P23064,isothermal titration calorimetry; nuclear magnetic resonance; pull down,true positive,,Human T-cell lymphotrophic virus type 1 (isolate MT-2)
+ELMI004001,LIG,LIG_NRP_CendR_1,Q2F842_ORFV,Q2F842,Q2F842,coimmunoprecipitation; competition binding; mutation analysis; surface plasmon resonance,true positive,,Orf virus
+ELMI004010,LIG,LIG_NRP_CendR_1,SPIKE_SARS2,P0DTC2,P0DTC2 PRO_0000449647,coimmunoprecipitation; mutation analysis,true positive,,Severe acute respiratory syndrome coronavirus 2
+ELMI001734,LIG,LIG_PDZ_Class_1,A46_VACCW,P26672,P26672 Q76ZN1,display technology,true positive,,Vaccinia virus WR
+ELMI001733,LIG,LIG_PDZ_Class_1,E4OR1_ADE09,P89079,P89079,coimmunoprecipitation; glutathione s tranferase tag; mutation analysis; pull down,true positive,,Human adenovirus 9
+ELMI001735,LIG,LIG_PDZ_Class_1,Q7TFX0_RHCM6,Q7TFX0,Q7TFX0,display technology,true positive,,Rhesus cytomegalovirus strain 68-1
+ELMI001736,LIG,LIG_PDZ_Class_1,Q9DWF6_RCMVM,Q9DWF6,Q9DWF6,display technology,true positive,,Rat cytomegalovirus Maastricht
+ELMI001737,LIG,LIG_PDZ_Class_1,Q9Q8F7_MYXVL,Q9Q8F7,Q9Q8F7,display technology,true positive,,Myxoma virus (strain Lausanne)
+ELMI001738,LIG,LIG_PDZ_Class_1,Q9Q8T6_RFVKA,Q9Q8T6,Q9Q8T6,display technology,true positive,,Rabbit fibroma virus (strain Kasza)
+ELMI001739,LIG,LIG_PDZ_Class_1,TAX_HTL1A,P03409,P03409,coimmunoprecipitation; mutation analysis; two hybrid; western blot,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI001740,LIG,LIG_PDZ_Class_1,VE6_HPV16,P03126,P03126 Q71BI7,nuclear magnetic resonance; surface plasmon resonance,true positive,2KPL,Human papillomavirus type 16
+ELMI001580,LIG,LIG_PDZ_Class_1,VE6_HPV18,P06463,P06463,isothermal titration calorimetry; nuclear magnetic resonance; x-ray crystallography,true positive,2I04 2I0I 2I0L 2OQS,Human papillomavirus type 18
+ELMI001741,LIG,LIG_PDZ_Class_1,VGLG_RABVE,P03524,P03524 A3F5L8,isothermal titration calorimetry; mutation analysis; two hybrid,true positive,,Rabies virus ERA
+ELMI001742,LIG,LIG_PDZ_Class_1,VL2_HPV49,P36762,P36762,display technology,true positive,,Human papillomavirus type 49
+ELMI003548,LIG,LIG_PDZ_Wminus1_1,VEMP_BCHK4,A3EX99,A3EX99,phage display,true positive,,Tylonycteris bat coronavirus HKU4
+ELMI003549,LIG,LIG_PDZ_Wminus1_1,VEMP_BCHK5,A3EXD5,A3EXD5,phage display,true positive,,Pipistrellus bat coronavirus HKU5
+ELMI001744,LIG,LIG_PTAP_UEV_1,GAG_FOAMV,P14349,P14349 P89871,mutation analysis; two hybrid,true positive,,Human spumaretrovirus
+ELMI001323,LIG,LIG_PTAP_UEV_1,GAG_HTL1A,P03345,P03345 Q85589,alanine scanning; glutathione s tranferase tag; mutation analysis; pull down; two hybrid; western blot,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI001324,LIG,LIG_PTAP_UEV_1,GAG_HV1B1,P03347,P03347 P03350,sequence based prediction,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001325,LIG,LIG_PTAP_UEV_1,GAG_HV1B1,P03347,P03347 P03350,sequence based prediction,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001331,LIG,LIG_PTAP_UEV_1,GAG_HV2BE,P18095,P18095,sequence based prediction,true positive,,Human immunodeficiency virus type 2 (ISOLATE BEN)
+ELMI001332,LIG,LIG_PTAP_UEV_1,GAG_MPMV,P07567,P07567,electron microscopy; mutation analysis,true positive,,Mason-Pfizer monkey virus
+ELMI001336,LIG,LIG_PTAP_UEV_1,GAG_SIVCZ,P17282,P17282,sequence based prediction,true positive,,Simian immunodeficiency virus
+ELMI001339,LIG,LIG_PTAP_UEV_1,MATRX_VSIVA,P03519,P03519,electron microscopy; mutation analysis,false positive,,Vesicular stomatitis Indiana virus strain San Juan
+ELMI001745,LIG,LIG_PTAP_UEV_1,NCAP_MABVM,P27588,P27588 Q38L45 Q6T6U3 Q6T6V0,coimmunoprecipitation; mutation analysis; western blot,true positive,,"Marburg virus - Musoke, Kenya, 1980"
+ELMI001746,LIG,LIG_PTAP_UEV_1,ORF3_HEVBU,P69616,P69616 P29325,coimmunoprecipitation; mutation analysis; western blot,true positive,,Hepatitis E virus (strain Burma)
+ELMI001337,LIG,LIG_PTAP_UEV_1,VP40_EBOZM,Q05128,Q05128,mutation analysis,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI001340,LIG,LIG_PTAP_UEV_1,VP8_BTV10,P08363,P08363,confocal microscopy; glutathione s tranferase tag; mutation analysis; pull down,unknown,,Bluetongue virus (serotype 10 / American isolate)
+ELMI001338,LIG,LIG_PTAP_UEV_1,Z_LASSJ,O73557,O73557,colocalization; mutation analysis,true positive,,Lassa virus Josiah
+ELMI001538,LIG,LIG_PTB_Phospho_1,MT_POVMA,P03077,P03077,alanine scanning; nuclear magnetic resonance,true positive,,Murine polyomavirus strain A2
+ELMI003151,LIG,LIG_RB_LxCxE_1,B8ZX42_9POLY,B8ZX42,B8ZX42,glutathione s tranferase tag; microscale thermophoresis; mutation analysis; pull down; western blot,true positive,,Merkel cell polyomavirus
+ELMI003132,LIG,LIG_RB_LxCxE_1,CLINK_FBNY1,Q9WIJ4,Q9WIJ4,glutathione s tranferase tag; mutation analysis; pull down; two hybrid,true positive,,Faba bean necrotic yellows virus
+ELMI003112,LIG,LIG_RB_LxCxE_1,E1A_ADE05,P03255,P03255 P06438 Q64825 Q64826,competition binding; glutathione s tranferase tag; mutation analysis; pull down,true positive,,Human adenovirus 5
+ELMI003117,LIG,LIG_RB_LxCxE_1,GCVK_HCMVA,P16788,P16788 Q7M6J4 Q910D5 Q910F8 Q910W3 Q91B46 Q91B47 Q91B48 Q91B49 Q91B50 Q91B51 Q91B52 Q91B53 Q91B54 Q91B55,mutation analysis,true positive,,Human herpesvirus 5 strain AD169
+ELMI003110,LIG,LIG_RB_LxCxE_1,LT_SV40,P03070,P03070,coimmunoprecipitation; glutathione s tranferase tag; isothermal titration calorimetry; microscale thermophoresis; mutation analysis; pull down; x-ray crystallography,true positive,1GH6,Simian virus 40
+ELMI003136,LIG,LIG_RB_LxCxE_1,Q77J89_WSSVS,Q77J89,Q77J89,coimmunoprecipitation; mutation analysis; sequence based prediction,true positive,,Shrimp white spot syndrome virus (isolate Tongan)
+ELMI003137,LIG,LIG_RB_LxCxE_1,Q77J94_WSSVS,Q77J94,Q77J94,coimmunoprecipitation; mutation analysis; sequence based prediction,true positive,,Shrimp white spot syndrome virus (isolate Tongan)
+ELMI003129,LIG,LIG_RB_LxCxE_1,Q98178_MCV1,Q98178,Q98178,coimmunoprecipitation; mutation analysis,true positive,,Molluscum contagiosum virus subtype 1
+ELMI003128,LIG,LIG_RB_LxCxE_1,Q98178_MCV1,Q98178,Q98178,coimmunoprecipitation; mutation analysis,true positive,,Molluscum contagiosum virus subtype 1
+ELMI003133,LIG,LIG_RB_LxCxE_1,Q9WKM8_BBTV,Q9WKM8,Q9WKM8,mutation analysis; two hybrid,true positive,,Banana bunchy top virus
+ELMI003135,LIG,LIG_RB_LxCxE_1,R1AB_CVMA5,P0C6X9,P0C6X9 O39225 O39226 P16342 P19750,coimmunoprecipitation; mutation analysis; sequence based prediction; x-ray crystallography,false positive,2GTH,Murine hepatitis virus strain A59
+ELMI003107,LIG,LIG_RB_LxCxE_1,REPA_BEYDV,O39521,O39521 A4K7Q4,mutation analysis; two hybrid,true positive,,Bean yellow dwarf virus
+ELMI003115,LIG,LIG_RB_LxCxE_1,REPA_MSVS,P14990,P14990,mutation analysis; two hybrid,true positive,,Maize streak virus - [South Africa]
+ELMI003114,LIG,LIG_RB_LxCxE_1,REPA_WDVS,P06847,P06847,mutation analysis; two hybrid,true positive,,Wheat dwarf virus - [Sweden]
+ELMI004910,LIG,LIG_RB_LxCxE_1,VE7_HPV11,P04020,P04020,competition binding; fluorescence polarization spectroscopy,true positive,,Human papillomavirus type 11
+ELMI003111,LIG,LIG_RB_LxCxE_1,VE7_HPV16,P03129,P03129,amplified luminescent proximity homogeneous assay; coimmunoprecipitation; competition binding; fluorescence polarization spectroscopy; isothermal titration calorimetry; mutation analysis; solid phase assay; western blot; x-ray crystallography,true positive,1GUX,Human papillomavirus type 16
+ELMI004911,LIG,LIG_RB_LxCxE_1,VE7_HPV18,P06788,P06788,competition binding; fluorescence polarization spectroscopy,true positive,,Human papillomavirus type 18
+ELMI004912,LIG,LIG_RB_LxCxE_1,VE7_HPV38,Q80908,Q80908,solid phase assay,true positive,,Human papillomavirus type 38
+ELMI001514,LIG,LIG_RB_pABgroove_1,E1A_ADE05,P03255,P03255 P06438 Q64825 Q64826,glutathione s tranferase tag; isothermal titration calorimetry; mutation analysis; pull down; x-ray crystallography,true positive,2R7G,Human adenovirus 5
+ELMI003700,LIG,LIG_SH2_GRB2like,TEG1_HHV11,P10230,P10230 B9VQH4 O09799 Q09I88,coimmunoprecipitation; mutation analysis; pull down,true positive,,Herpes simplex virus (type 1 / strain 17)
+ELMI003875,LIG,LIG_SH2_NCK_1,A36_VACCW,P68619,P68619 P21059 Q76ZP0,fluorescence technology; surface plasmon resonance; western blot,true positive,,Vaccinia virus WR
+ELMI004886,LIG,LIG_SH2_SFK_2,MT_POVHA,P03079,P03079,coimmunoprecipitation; competition binding; elisa; isothermal titration calorimetry; mutation analysis; nuclear magnetic resonance; x-ray crystallography,true positive,1AOT 1AOU 1LCJ 1NZL 1SHD 1SPS,Hamster polyomavirus
+ELMI001752,LIG,LIG_SH2_STAT3,TIP_SHV24,P25049,P25049,coimmunoprecipitation; mutation analysis,true positive,,Herpesvirus saimiri (strain 484-77)
+ELMI000194,LIG,LIG_SH3_2,NEF_HV1BR,P03406,P03406,alanine scanning; western blot; x-ray crystallography,true positive,1EFN,Human immunodeficiency virus type 1 (BRU ISOLATE)
+ELMI001755,LIG,LIG_SH3_2,POLG_HCVJA,P26662,P26662 P89966 Q81755,coimmunoprecipitation; confocal microscopy; glutathione s tranferase tag; mutation analysis; pull down; sequence based prediction; two hybrid,true positive,,Hepatitis C virus (isolate Japanese)
+ELMI001753,LIG,LIG_SH3_3,NS1_I72A2,P03495,P03495 Q1K9D5,coimmunoprecipitation; glutathione s tranferase tag; mutation analysis; pull down; western blot,true positive,,Influenza A virus (A/Udorn/307/1972(H3N2))
+ELMI002289,LIG,LIG_SH3_3,ORF3_HEVBU,P69616,P69616 P29325,glutathione s tranferase tag; mutation analysis; pull down; two hybrid,true positive,,Hepatitis E virus (strain Burma)
+ELMI001754,LIG,LIG_SH3_3,ORF3_HEVBU,P69616,P69616 P29325,glutathione s tranferase tag; mutation analysis; pull down; two hybrid,true positive,,Hepatitis E virus (strain Burma)
+ELMI002290,LIG,LIG_SH3_3,TIP_SHV24,P25049,P25049,mutation analysis,true positive,,Herpesvirus saimiri (strain 484-77)
+ELMI001756,LIG,LIG_SH3_3,TIP_SHV24,P25049,P25049,mutation analysis,true positive,,Herpesvirus saimiri (strain 484-77)
+ELMI004378,LIG,LIG_SH3_CIN85_PxpxPR_1,ICP0_HHV11,P08393,P08393,anti tag coimmunoprecipitation; glutathione s tranferase tag; identification by antibody; pull down; tag visualisation by luciferase assay,true positive,,Herpes simplex virus (type 1 / strain 17)
+ELMI004379,LIG,LIG_SH3_CIN85_PxpxPR_1,ICP0_HHV11,P08393,P08393,anti tag coimmunoprecipitation; glutathione s tranferase tag; identification by antibody; pull down; tag visualisation by luciferase assay,true positive,,Herpes simplex virus (type 1 / strain 17)
+ELMI004416,LIG,LIG_SH3_CIN85_PxpxPR_1,POLG_HCVJF,Q99IB8,Q99IB8,glutathione s tranferase tag; phage display; pull down,true positive,,Hepatitis C virus JFH-1
+ELMI004390,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_BFV,P87515,P87515,coimmunoprecipitation; western blot,true positive,,Barmah Forest virus
+ELMI004391,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_BFV,P87515,P87515,coimmunoprecipitation; western blot,true positive,,Barmah Forest virus
+ELMI004392,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_BFV,P87515,P87515,coimmunoprecipitation; western blot,true positive,,Barmah Forest virus
+ELMI004406,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_CHIKS,Q8JUX6,Q8JUX6,mutation analysis; nuclear magnetic resonance; western blot,true positive,,Chikungunya virus strain S27-African prototype
+ELMI004386,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_EEVVT,P27282,P27282 A0A0M3T9D8 O90163 Q5XQC5 Q66592 Q66594,coimmunoprecipitation; detection by mass spectrometry; western blot,true positive,,Venezuelan equine encephalitis virus (strain Trinidad donkey)
+ELMI004387,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_EEVVT,P27282,P27282 A0A0M3T9D8 O90163 Q5XQC5 Q66592 Q66594,coimmunoprecipitation; detection by mass spectrometry; western blot,true positive,,Venezuelan equine encephalitis virus (strain Trinidad donkey)
+ELMI004380,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_SFV,P08411,P08411 Q3LRQ3 Q3LRQ4 Q3LRQ6 Q3LRQ7 Q3LRQ9 Q3LRR0 Q3LRR1 Q3LRR2 Q8JMP6 Q9QBM1,coimmunoprecipitation; detection by mass spectrometry; mutation analysis; western blot,true positive,,Semliki forest virus
+ELMI004381,LIG,LIG_SH3_CIN85_PxpxPR_1,POLN_SFV,P08411,P08411 Q3LRQ3 Q3LRQ4 Q3LRQ6 Q3LRQ7 Q3LRQ9 Q3LRR0 Q3LRR1 Q3LRR2 Q8JMP6 Q9QBM1,coimmunoprecipitation; detection by mass spectrometry; mutation analysis; western blot,true positive,,Semliki forest virus
+ELMI004399,LIG,LIG_SH3_CIN85_PxpxPR_1,Q64ET4_HCMV,Q64ET4,Q64ET4,coimmunoprecipitation; detection by mass spectrometry; mutation analysis; western blot,unknown,,Human herpesvirus 5
+ELMI004400,LIG,LIG_SH3_CIN85_PxpxPR_1,Q64ET4_HCMV,Q64ET4,Q64ET4,coimmunoprecipitation; detection by mass spectrometry; mutation analysis; western blot,unknown,,Human herpesvirus 5
+ELMI002805,LIG,LIG_SUMO_SIM_anti_2,Q99AM3_HHV8,Q99AM3,Q99AM3,alanine scanning; glutathione s tranferase tag; pull down,false positive,,Human herpesvirus 8
+ELMI002791,LIG,LIG_SUMO_SIM_par_1,Q99AM3_HHV8,Q99AM3,Q99AM3,alanine scanning; glutathione s tranferase tag; pull down,false positive,,Human herpesvirus 8
+ELMI004696,LIG,LIG_TRAF2like_MATH_loPxQ_2,LMP1_EBVB9,P03230,P03230 Q777A4,mutation analysis; x-ray crystallography,true positive,1CZY,Human herpesvirus 4 (strain B95-8)
+ELMI004698,LIG,LIG_TRAF2like_MATH_loPxQ_2,LMP1_EBVR,P13198,P13198,coimmunoprecipitation; mutation analysis; western blot; x-ray crystallography,true positive,1ZMS,Human herpesvirus 4 (strain RAJI)
+ELMI001758,LIG,LIG_TRAF2like_MATH_shPxQ_1,TSTP_SHV21,P18347,P18347,coimmunoprecipitation; mutation analysis; western blot,true positive,,Herpesvirus saimiri (strain 11)
+ELMI004506,LIG,LIG_TRAF6_MATH_1,ICP0_BHV1J,P29128,P29128,coimmunoprecipitation; mutation analysis; western blot,true positive,,Bovine herpesvirus type 1.1 (strain Jura)
+ELMI004507,LIG,LIG_TRAF6_MATH_1,TIO_ATHV3,Q9YJQ8,Q9YJQ8,coimmunoprecipitation; mutation analysis; western blot,true positive,,Ateline herpesvirus 3
+ELMI001759,LIG,LIG_TRAF6_MATH_1,V120_HHV11,P10221,P10221,coimmunoprecipitation; mutation analysis; pull down,true positive,,Herpes simplex virus (type 1 / strain 17)
+ELMI004513,LIG,LIG_TRAF6_MATH_1,VCLAP_EHV2,Q66677,Q66677,mutation analysis; western blot,true positive,,Equid herpesvirus type 2 strain 86/87
+ELMI003461,LIG,LIG_ULM_U2AF65_1,REV_HV2D2,P15830,P15830,sequence based prediction,true positive,,"Human immunodeficiency virus type 2 (ISOLATE D205,7)"
+ELMI001767,LIG,LIG_WW_1,CAPSP_ADE02,P03276,P03276,coimmunoprecipitation; far western blotting; mutation analysis; surface plasmon resonance,true positive,,Human adenovirus 2
+ELMI002291,LIG,LIG_WW_1,GAG_HTL1A,P03345,P03345 Q85589,classical fluorescence spectroscopy; over expressed level,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI001761,LIG,LIG_WW_1,GAG_MPMV,P07567,P07567,electron microscopy; mutation analysis,unknown,,Mason-Pfizer monkey virus
+ELMI001762,LIG,LIG_WW_1,GAG_RSVP,P03322,P03322,mutation analysis,unknown,,Rous sarcoma virus - Prague C
+ELMI001763,LIG,LIG_WW_1,LMP2_EBVB9,P13285,P13285 Q777H4 Q8AZK9,isothermal titration calorimetry; nuclear magnetic resonance,true positive,2JO9,Human herpesvirus 4 (strain B95-8)
+ELMI001764,LIG,LIG_WW_1,LMP2_EBVB9,P13285,P13285 Q777H4 Q8AZK9,coimmunoprecipitation; mutation analysis; pull down,true positive,,Human herpesvirus 4 (strain B95-8)
+ELMI001765,LIG,LIG_WW_1,MATRX_RABVS,P16287,P16287 A3F5R7 Q6HA96,electron microscopy; mutation analysis,unknown,,Rabies virus SAD B19
+ELMI001766,LIG,LIG_WW_1,MATRX_VSIVA,P03519,P03519,mutation analysis,unknown,,Vesicular stomatitis Indiana virus strain San Juan
+ELMI001768,LIG,LIG_WW_1,UL56_HHV2H,P28282,P28282,classical fluorescence spectroscopy; coimmunoprecipitation; mutation analysis; two hybrid; western blot,true positive,,Human herpesvirus 2 strain HG52
+ELMI001769,LIG,LIG_WW_1,UL56_HHV2H,P28282,P28282,classical fluorescence spectroscopy; coimmunoprecipitation; mutation analysis; two hybrid; western blot,true positive,,Human herpesvirus 2 strain HG52
+ELMI001770,LIG,LIG_WW_1,VP40_EBOZM,Q05128,Q05128,mutation analysis; ubiquitinase assay; western blot,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI001771,LIG,LIG_WW_1,VP40_MABVM,P35260,P35260 Q38L43 Q6T6U1 Q6T6U8,confocal microscopy; glutathione s tranferase tag; mutation analysis; pull down,true positive,,"Marburg virus - Musoke, Kenya, 1980"
+ELMI001732,LIG,LIG_WW_1,VP8_BTV10,P08363,P08363,glutathione s tranferase tag; mutation analysis; pull down; western blot,true positive,,Bluetongue virus (serotype 10 / American isolate)
+ELMI001772,LIG,LIG_WW_1,Z_LASSJ,O73557,O73557,mutation analysis,unknown,,Lassa virus Josiah
+ELMI001773,LIG,LIG_WW_1,Z_LYCVA,P18541,P18541 Q49K85,mutation analysis; western blot,unknown,,Lymphocytic choriomeningitis virus (strain Armstrong)
+ELMI003442,MOD,MOD_CAAXbox,RASH_MSVHA,P01115,P01115 O40604,mutation analysis; phenotype-based detection assay,true positive,,Harvey murine sarcoma virus
+ELMI002140,MOD,MOD_CK2_1,VPU_HV1BR,P05923,P05923,mutation analysis,true positive,,Human immunodeficiency virus type 1 (BRU ISOLATE)
+ELMI002141,MOD,MOD_CK2_1,VPU_HV1BR,P05923,P05923,mutation analysis,true positive,,Human immunodeficiency virus type 1 (BRU ISOLATE)
+ELMI001774,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001775,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; detection by mass spectrometry; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001776,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; detection by mass spectrometry,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001777,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001778,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001779,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,alanine scanning; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001780,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001781,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001782,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI002292,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001783,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001784,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI002293,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001785,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001786,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI002294,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001787,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001788,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001789,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001790,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001791,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,deglycosylase assay; edman degradation,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001792,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,inferred by author,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001793,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,inferred by author,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001794,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,inferred by author,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI001795,MOD,MOD_N-GLC_1,ENV_HV1B1,P03375,P03375 P03376,inferred by author,true positive,,Human immunodeficiency virus type 1 BH10
+ELMI002298,MOD,MOD_N-GLC_1,FUS_NIPAV,Q9IH63,Q9IH63 Q5K4D9 Q8QU00,mutation analysis,true positive,,Nipah virus
+ELMI001802,MOD,MOD_N-GLC_1,FUS_NIPAV,Q9IH63,Q9IH63 Q5K4D9 Q8QU00,mutation analysis,true positive,,Nipah virus
+ELMI001803,MOD,MOD_N-GLC_1,FUS_NIPAV,Q9IH63,Q9IH63 Q5K4D9 Q8QU00,mutation analysis,true positive,,Nipah virus
+ELMI001804,MOD,MOD_N-GLC_1,FUS_NIPAV,Q9IH63,Q9IH63 Q5K4D9 Q8QU00,mutation analysis,true positive,,Nipah virus
+ELMI001805,MOD,MOD_N-GLC_1,FUS_NIPAV,Q9IH63,Q9IH63 Q5K4D9 Q8QU00,mutation analysis,true positive,,Nipah virus
+ELMI001806,MOD,MOD_N-GLC_1,POLG_HCVH,P27958,P27958 O36579 O36608 O36609 O36610,mutation analysis,true positive,,Hepatitis C virus (isolate H)
+ELMI001807,MOD,MOD_N-GLC_1,POLG_HCVH,P27958,P27958 O36579 O36608 O36609 O36610,mutation analysis,true positive,,Hepatitis C virus (isolate H)
+ELMI001808,MOD,MOD_N-GLC_1,POLG_HCVH,P27958,P27958 O36579 O36608 O36609 O36610,mutation analysis,true positive,,Hepatitis C virus (isolate H)
+ELMI001809,MOD,MOD_N-GLC_1,POLG_HCVH,P27958,P27958 O36579 O36608 O36609 O36610,mutation analysis,true positive,,Hepatitis C virus (isolate H)
+ELMI001810,MOD,MOD_N-GLC_1,Q3I0Y8_WNV,Q3I0Y8,Q3I0Y8,x-ray crystallography,true positive,2HG0,West Nile virus
+ELMI001811,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001812,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001813,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001814,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001815,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001816,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001817,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001818,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001819,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001820,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001821,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001822,MOD,MOD_N-GLC_1,SPIKE_CVHSA,P59594,P59594 Q6QU82 Q7T696 Q7TA19 Q7TFA2 Q7TFB1 Q80BV6,deglycosylase assay; detection by mass spectrometry,true positive,,SARS coronavirus
+ELMI001823,MOD,MOD_N-GLC_1,VGP_EBOZM,Q05320,Q05320 Q66818 Q77LU5 Q8B9S1 Q8JS62,mutation analysis,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI001824,MOD,MOD_N-GLC_1,VGP_EBOZM,Q05320,Q05320 Q66818 Q77LU5 Q8B9S1 Q8JS62,mutation analysis,true positive,,"Ebola virus - Mayinga, Zaire, 1976"
+ELMI001825,MOD,MOD_N-GLC_1,VME1_CVHSA,P59596,P59596 Q6S8E5 Q7T6Q8 Q7T6R1 Q7T6R5 Q7T6S0 Q7T6S3 Q7T726 Q7T7P6 Q7T7S6 Q7TA12,mutation analysis,true positive,,SARS coronavirus
+ELMI001834,MOD,MOD_NMyristoyl,E7R_VACCW,P68446,P68446 P21048 Q76ZV8,mutation analysis; myristoylase assay,true positive,,Vaccinia virus WR
+ELMI001826,MOD,MOD_NMyristoyl,GAG_HTL1A,P03345,P03345 Q85589,scintillation proximity assay; western blot,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI001828,MOD,MOD_NMyristoyl,GAG_MMTVC,P11284,P11284 Q9IZT1,detection by mass spectrometry,true positive,,Mouse mammary tumor virus (STRAIN C3H)
+ELMI001829,MOD,MOD_NMyristoyl,HBSAG_HBVD3,P03138,P03138,mutation analysis,true positive,,Hepatitis B virus ayw/France/Tiollais/1979
+ELMI001836,MOD,MOD_NMyristoyl,L1R_VACCC,P20540,P20540,mutation analysis; myristoylase assay,true positive,,Vaccinia virus Copenhagen
+ELMI001832,MOD,MOD_NMyristoyl,MU1_REOVD,P11078,P11078 A4ZY24 P17701,alanine scanning,true positive,,Mammalian orthoreovirus 3 Dearing
+ELMI001830,MOD,MOD_NMyristoyl,POLG_POL1M,P03300,P03300 P03299 Q84879 Q84880 Q89679,mutation analysis,true positive,,Human poliovirus 1 Mahoney
+ELMI001831,MOD,MOD_NMyristoyl,PP220_ASFB7,Q08358,Q08358 Q65287,coimmunoprecipitation,true positive,,African swine fever virus BA71V
+ELMI001833,MOD,MOD_NMyristoyl,SRC_RSVSA,P00524,P00524,chromatography technology; sequence based prediction; western blot,true positive,,Rous sarcoma virus (strain Schmidt-Ruppin A)
+ELMI001835,MOD,MOD_NMyristoyl,VG09_VACCC,P21030,P21030,chromatography technology; coimmunoprecipitation,true positive,,Vaccinia virus Copenhagen
+ELMI001837,MOD,MOD_NMyristoyl,Z_LASSJ,O73557,O73557,mutation analysis; radiolabel,true positive,,Lassa virus Josiah
+ELMI000886,MOD,MOD_SUMO_for_1,VIE1_HCMVA,P13202,P13202 Q7M6S4,not specified,true positive,,Human herpesvirus 5 strain AD169
+ELMI004270,TRG,TRG_DiLeu_BaEn_1,NEF_HV1B1,P03404,P03404 P03405,electron microscopy; mutation analysis,true positive,6DFF,Human immunodeficiency virus type 1 BH10
+ELMI004271,TRG,TRG_DiLeu_BaEn_1,Q4JGV0_SIV,Q4JGV0,Q4JGV0,electron microscopy; fluorescence polarization spectroscopy; mutation analysis,true positive,6OWT,Simian immunodeficiency virus
+ELMI004268,TRG,TRG_DiLeu_BaEn_1,VPU_HV1S1,P19554,P19554,chromatography technology; confocal microscopy; mutation analysis; western blot; x-ray crystallography,true positive,4P6Z,Human immunodeficiency virus type 1 (SF162 ISOLATE)
+ELMI004292,TRG,TRG_DiLeu_BaLyEn_6,Q91CB6_ADE09,Q91CB6,Q91CB6,confocal microscopy; mutation analysis; radiolabel,unknown,,Human adenovirus 9
+ELMI001838,TRG,TRG_ENDOCYTIC_2,ENV_BLV,P51519,P51519 Q85488 Q85489,mutation analysis,unknown,,Bovine leukemia virus
+ELMI001839,TRG,TRG_ENDOCYTIC_2,ENV_HTLV2,P03383,P03383 P03382,mutation analysis; rna interference,true positive,,Human T-lymphotropic virus 2
+ELMI001841,TRG,TRG_ENDOCYTIC_2,ENV_SIVMK,P05884,P05884,alanine scanning; surface plasmon resonance,true positive,,Simian immunodeficiency virus - mac K6W
+ELMI001842,TRG,TRG_ENDOCYTIC_2,GE_VZVO,Q9J3M8,Q9J3M8,alanine scanning; classical fluorescence spectroscopy; mutation analysis; sequence based prediction,true positive,,Human herpesvirus 3 strain Oka vaccine
+ELMI001843,TRG,TRG_ENDOCYTIC_2,VGLG_VSIVA,P03522,P03522,alanine scanning,unknown,,Vesicular stomatitis Indiana virus strain San Juan
+ELMI001844,TRG,TRG_ER_diLys_1,E3GL_ADE02,P68978,P68978 P03251,classical fluorescence spectroscopy; coimmunoprecipitation; fluorescence-activated cell sorting; mutation analysis,true positive,,Human adenovirus 2
+ELMI001845,TRG,TRG_ER_diLys_1,NS7A_CVHSA,P59635,P59635 Q7TA11 Q7TA17,classical fluorescence spectroscopy; mutation analysis,true positive,,SARS coronavirus
+ELMI001846,TRG,TRG_ER_diLys_1,SPIKE_IBVB,P11223,P11223 P05134 Q4ZJS1,classical fluorescence spectroscopy; mutation analysis,true positive,,Avian infectious bronchitis virus (strain Beaudette)
+ELMI003521,TRG,TRG_ER_FFAT_2,Q80J95_9CALI,Q80J95,Q80J95,anti tag coimmunoprecipitation; mutation disrupting interaction; nuclear magnetic resonance; two hybrid,true positive,,Murine norovirus 1
+ELMI001849,TRG,TRG_NES_CRM1_1,NEP_I34A1,P03508,P03508 A4GXG8 Q20N33 Q67266 Q71QT4,classical fluorescence spectroscopy; competition binding; mutation analysis,true positive,,Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+ELMI002299,TRG,TRG_NES_CRM1_1,NEP_I34A1,P03508,P03508 A4GXG8 Q20N33 Q67266 Q71QT4,classical fluorescence spectroscopy; competition binding; mutation analysis,true positive,,Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+ELMI000922,TRG,TRG_NES_CRM1_1,REV_HV1C4,P05865,P05865,competition binding; mutation analysis,true positive,,Human immunodeficiency virus type 1 (CDC-451 ISOLATE)
+ELMI001850,TRG,TRG_NES_CRM1_1,REX_HTL1A,P0C205,P0C205,affinity chromatography technology; classical fluorescence spectroscopy; mutation analysis,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI001858,TRG,TRG_NLS_Bipartite_1,PB2_I34A1,P03428,P03428 A4GXH0 Q20N28 Q8JUU8,mutation analysis; x-ray crystallography,true positive,2JDQ,Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+ELMI001851,TRG,TRG_NLS_MonoCore_2,2B_CMVQ,Q66125,Q66125,alanine scanning; confocal microscopy; green fluorescent protein tag; mutation analysis,true positive,,Cucumber mosaic virus (strain Q)
+ELMI001373,TRG,TRG_NLS_MonoCore_2,E1A_ADE05,P03255,P03255 P06438 Q64825 Q64826,colocalization; mutation analysis,true positive,,Human adenovirus 5
+ELMI001359,TRG,TRG_NLS_MonoCore_2,JUN_AVIS1,P05411,P05411,colocalization; mutation analysis,true positive,,Avian sarcoma virus 17
+ELMI001366,TRG,TRG_NLS_MonoCore_2,LT_POVMA,P03073,P03073,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI001354,TRG,TRG_NLS_MonoCore_2,LT_SV40,P03070,P03070,colocalization; mutation analysis; x-ray crystallography,true positive,1Q1T,Simian virus 40
+ELMI001854,TRG,TRG_NLS_MonoCore_2,REV_EIAVY,P20919,P20919,alanine scanning; competition binding; mutation analysis,true positive,,Equine infectious anemia virus (ISOLATE WYOMING)
+ELMI001368,TRG,TRG_NLS_MonoCore_2,VP2_POVMA,P03096,P03096 Q85070,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI001857,TRG,TRG_NLS_MonoCore_2,VPRL_FIVSD,P69469,P69469 P19033 P69468,green fluorescent protein tag; mutation analysis,true positive,,Feline immunodeficiency virus (isolate San Diego)
+ELMI001372,TRG,TRG_NLS_MonoExtC_3,E1A_ADE05,P03255,P03255 P06438 Q64825 Q64826,colocalization; mutation analysis,true positive,,Human adenovirus 5
+ELMI001357,TRG,TRG_NLS_MonoExtC_3,JUN_AVIS1,P05411,P05411,colocalization; mutation analysis,true positive,,Avian sarcoma virus 17
+ELMI001370,TRG,TRG_NLS_MonoExtC_3,LT_POVMA,P03073,P03073,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI001358,TRG,TRG_NLS_MonoExtC_3,LT_SV40,P03070,P03070,colocalization; mutation analysis; x-ray crystallography,true positive,1Q1T,Simian virus 40
+ELMI001855,TRG,TRG_NLS_MonoExtC_3,REX_HTL1A,P0C205,P0C205,classical fluorescence spectroscopy; competition binding; immunodepleted coimmunoprecipitation; mutation analysis,true positive,,Human T-cell lymphotrophic virus type 1 (strain ATK)
+ELMI001367,TRG,TRG_NLS_MonoExtC_3,VP2_POVMA,P03096,P03096 Q85070,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI001356,TRG,TRG_NLS_MonoExtN_4,JUN_AVIS1,P05411,P05411,colocalization; mutation analysis,true positive,,Avian sarcoma virus 17
+ELMI001371,TRG,TRG_NLS_MonoExtN_4,LT_POVMA,P03073,P03073,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI001362,TRG,TRG_NLS_MonoExtN_4,LT_SV40,P03070,P03070,colocalization; mutation analysis; x-ray crystallography,true positive,1Q1T,Simian virus 40
+ELMI002397,TRG,TRG_NLS_MonoExtN_4,LT_SV40,P03070,P03070,colocalization; mutation analysis,true positive,,Simian virus 40
+ELMI001853,TRG,TRG_NLS_MonoExtN_4,PPR_SCMVC,P16046,P16046,alanine scanning; classical fluorescence spectroscopy,true positive,,Cercopithecine herpesvirus 5
+ELMI001369,TRG,TRG_NLS_MonoExtN_4,VP1_POVMA,P03090,P03090,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI001365,TRG,TRG_NLS_MonoExtN_4,VP2_POVMA,P03096,P03096 Q85070,colocalization; mutation analysis,true positive,,Murine polyomavirus strain A2
+ELMI002164,TRG,TRG_NLS_MonoExtN_4,VPAP_HCMVA,P16790,P16790 Q7M6P1,green fluorescent protein tag; mutation analysis,true positive,,Human herpesvirus 5 strain AD169
+ELMI001348,TRG,TRG_NLS_MonoExtN_4,W_NIPAV,P0C1C7,P0C1C7,coimmunoprecipitation; colocalization; mutation analysis,true positive,,Nipah virus
