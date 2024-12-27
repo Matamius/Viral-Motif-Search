@@ -1,0 +1,17 @@
+This project is a simplistic web-based project that is designed to assess some viral gene vector
+We are assuming that this viral vector is unknown, but for testing and demonstration purposes it will use known genes.
+The program will:
+  take in a FASTA formatted gene sequence,
+  convert the gene into 6 reading frames and generate a list of peptides per frame,
+  these peptides will be compared against a database of motifs to produce a set of results depicting similarity to motif structure,
+  present the user with a table of peptides, the motif structure it is similar to, and associations to the motif structure.
+
+The idea is to assess any potential parts of the gene that may produce peptides that are similar to short linear motifs, structural motifs, or repeated residues.
+The database will need to be curated, but the idea is a WIP based on some papers:
+  Sobhy H. (2016). A Review of Functional Motifs Utilized by Viruses. Proteomes, 4(1), 3. https://doi.org/10.3390/proteomes4010003.
+  Hraber, P., O'Maille, P. E., Silberfarb, A., Davis-Anderson, K., Generous, N., McMahon, B. H., & Fair, J. M. (2020). Resources to Discover and Use Short Linear Motifs in Viral Proteins. Trends in biotechnology, 38(1), 113–127. https://doi.org/10.1016/j.tibtech.2019.07.004
+These research papers have a small but detailed list of motifs associated with virulence and will need to have a spreadsheet designed in accordance to the data presented.
+Supplemental data will be added onto the spreadsheet as I find them.
+  
+Following Hraber, et al., I came across the ELM database with a curated tsv file of viral class motifs. I will convert the file database to csv.
+Furthermore, I have converted the database from Sobhy's Table 1 into a csv file as well. All REGEX patterns will be converted such that they follow a consensus.
