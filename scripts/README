@@ -1,0 +1,25 @@
+There are three primary layers:
+  Backend processing houses:
+    /scripts/bin/pieced_together.cgi 
+    /scripts/bin/utils/project_parse.py
+  Javascript:
+    /scripts/js/preprocess.js
+  Frontend:
+    /scripts/html/render.html
+    /scripts/css/render.css
+  
+These mimic server side subdirectory organization
+
+Version 1.00 - complete
+Plans for update:
+  - highlight portion along peptide matching regex
+  - change css and/or html for more aesthetic visuals
+  - add column to mark start and end position of match in framed peptide sequence
+
+Version 1.01 - complete
+New updates:
+  - added summarized results
+  - added highlights
+  - changed some css and html to make UI more pleasing
+Plans for update:
+  - incorporate probability calculations to accomodate for likelihood of motifs being present
