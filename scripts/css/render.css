@@ -1,0 +1,136 @@
+body {
+	font-family: Arial, sans-serif; 
+	text-align: center; 
+	margin: 20px; 
+	padding: 10px;
+}
+
+h1, h2, p {
+	margin: 20px; 
+	text-align: center;
+}
+
+form {
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+/* loading icon */
+#loadingIndicator {
+	position: fixed; 
+	top: 50%;
+	left: 50%;
+	z-index: 9999;
+	transform: translate(-50%, -50%);
+	display: none; 
+	text-align: center;
+}
+
+.loader {
+	width: 120px;
+	height: 120px;
+	border: 16px solid #f3f3f3;
+	border-radius: 50%;
+	border-top: 16px solid #3498db;
+	animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+	0% { transform: rotate(0deg); }
+	100% { transform: rotate(360deg); }
+}
+
+#loadingIndicator p {
+	margin-top: 20px; 
+}
+
+#summarized_results {
+	margin: 20px 0;
+	padding: 10px;
+	border: 1px solid #ddd;
+	background-color: #f4f4f4;
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	display: none;
+}
+
+#results{
+	display: none; 
+}
+
+.uniqueIdsExpanded {
+	padding-left: 20px;
+	margin-top: 10px;
+	color: #333;
+	font-size: 0.9em;
+	border-top: 1px solid #ddd;
+}
+
+.expandButton {
+	margin-top: 10px;
+	padding: 5px 10px;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+	background-color: #777;
+	color: white;
+}
+
+/* general styling */
+.flex-table {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	overflow: hidden;
+	font-family: Arial, sans-serif;
+	text-align: left;
+}
+
+/* header */
+.flex-header {
+	display: flex;
+	background-color: #f4f4f4;
+	font-weight: bold;
+	border-bottom: 2px solid #ddd;
+	text-align: center;
+}
+
+/* table rows */
+.flex-row {
+	display: flex;
+	border-bottom: 1px solid #ddd;
+}
+/* for easier readability */
+.flex-row:nth-child(even) {
+	background-color: #fafafa;
+}
+
+/* cells */
+.flex-cell {
+	flex: 1; /* distribute space evenly among cells */
+	min-width: 50px;
+	padding: 10px;
+	border-right: 1px solid #ddd;
+	overflow-wrap: break-word; /* avoid overflow for janky unspaced text */
+}
+
+/* fixed first chiled "frame" */
+.flex-header .flex-cell:first-child {
+	flex-grow: 0; 
+	width: 50px;
+}
+.flex-row .flex-cell:first-child {
+	flex-grow: 0; 
+	width: 50px;
+}
+
+.flex-cell:last-child {
+	border-right: none; /* remove border on last column */
+}
+
+.highlight {
+	color: blue; /* Blue text color */
+	font-weight: bold; /* Bold text */
+}
