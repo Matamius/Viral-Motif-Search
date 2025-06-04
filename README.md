@@ -7,7 +7,7 @@ This is a web-based motif search progam for identifying potential matches of fun
 
 <-- Requirements -->
 
-python libraries: jingja2, mysql.connector
+python libraries: jinja2, mysql.connector
 
 Installation for these can be applied by running: pip install -r requirements.txt
 
